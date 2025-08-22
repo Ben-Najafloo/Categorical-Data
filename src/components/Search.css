@@ -1,0 +1,15 @@
+form{
+    width: 50rem;
+    margin: auto;
+}
+
+input{
+    width: 40rem;
+    height: 2.1rem;
+}
+button{
+    width: 8rem;
+    height: 2.5rem;
+    padding: 0.5rem;
+    margin-left: 0.5rem;
+}

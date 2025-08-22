@@ -1,0 +1,10 @@
+.main-container{
+    display: flex;
+    padding-top: 1rem;
+}
+
+.book-container{
+    width: 90%;
+    
+    padding: 2rem;
+}
